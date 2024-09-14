@@ -1,0 +1,8 @@
+watch: false
+# watch: true
+
+preview: false
+output: lib/core/resource/resource.dart
+# output: lib/const/resource.dart
+
+# name: RRR
